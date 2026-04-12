@@ -861,8 +861,8 @@ function Contact() {
         {/* Social row */}
         <div className="mt-8 flex gap-5 flex-wrap">
           {[
-            ["GitHub", "github.com/jorgecampos"],
-            ["LinkedIn", "linkedin.com/in/jorgecampos"],
+            ["GitHub", "github.com/jorge-ruso"],
+            ["LinkedIn", "www.linkedin.com/in/jorge-campos-bellido-51a549330"],
             ["TryHackMe", "tryhackme.com/p/jorge"],
           ].map(([label, href]) => (
             <a
